@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.readonly",
+  "version": "1.0.0",
+  "displayName": "[ETL] Read Only",
+  "description": "A simple save manager without encryptation.",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["code", "readonly", "utility"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}
