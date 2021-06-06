@@ -1,8 +1,8 @@
 {
   "name": "com.extelen.readonly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "[ETL] Read Only",
-  "description": "A simple save manager without encryptation.",
+  "description": "A Read Only Attribute.",
   "unity": "2020.3", 
   "dependencies": {
   },
