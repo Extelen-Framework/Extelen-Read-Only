@@ -1,6 +1,6 @@
 {
   "name": "com.extelen.readonly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "[ETL] Read Only",
   "description": "A Read Only Attribute.",
   "unity": "2020.3", 
